@@ -1,1 +1,2 @@
-print("Welcome to Pracice DevOps")
+Name: Sasikumarreddy Nalamalapu
+Graduation: BTech
